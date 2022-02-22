@@ -1,8 +1,8 @@
-watch this live : https://tour-guide-practice.netlify.app/
+watch this live : https://color-generator-reactapp.netlify.app/
 
 
 
-A react app that displays data from some API.
+enter a color and get various shades of it
 
 Practiced from video : https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=1650s
 
